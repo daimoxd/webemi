@@ -1,0 +1,12 @@
+[
+    {
+        "name": "alfredin",
+        "bio": "Hola soy alfredo ",
+        "avatarUrl": "src/assets/Avatares2.png",
+        "avatarPos": "center top",
+        "color": "#fa4b00",
+        "id": "user_6add3d8e04a60",
+        "createdAt": "2026-10-24 17:21:50",
+        "usuario_id": 6
+    }
+]
